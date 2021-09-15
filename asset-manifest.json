@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hppd-app-vip/static/css/main.6473855c.chunk.css",
+    "main.js": "/hppd-app-vip/static/js/main.a1ae6790.chunk.js",
+    "main.js.map": "/hppd-app-vip/static/js/main.a1ae6790.chunk.js.map",
+    "runtime-main.js": "/hppd-app-vip/static/js/runtime-main.e92defff.js",
+    "runtime-main.js.map": "/hppd-app-vip/static/js/runtime-main.e92defff.js.map",
+    "static/js/2.f522d9e8.chunk.js": "/hppd-app-vip/static/js/2.f522d9e8.chunk.js",
+    "static/js/2.f522d9e8.chunk.js.map": "/hppd-app-vip/static/js/2.f522d9e8.chunk.js.map",
+    "index.html": "/hppd-app-vip/index.html",
+    "static/css/main.6473855c.chunk.css.map": "/hppd-app-vip/static/css/main.6473855c.chunk.css.map",
+    "static/js/2.f522d9e8.chunk.js.LICENSE.txt": "/hppd-app-vip/static/js/2.f522d9e8.chunk.js.LICENSE.txt",
+    "static/media/avt.47ccb733.png": "/hppd-app-vip/static/media/avt.47ccb733.png",
+    "static/media/App.css": "/hppd-app-vip/static/media/img-sky.719a4789.jpg",
+    "static/media/Update.css": "/hppd-app-vip/static/media/sea.f18f023d.jpg",
+    "static/media/OldGirl.css": "/hppd-app-vip/static/media/tim.eef40b06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e92defff.js",
+    "static/js/2.f522d9e8.chunk.js",
+    "static/css/main.6473855c.chunk.css",
+    "static/js/main.a1ae6790.chunk.js"
+  ]
+}
